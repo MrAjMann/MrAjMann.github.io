@@ -5,15 +5,15 @@ html {
 }
 body {
   font-family: 'Montserrat', sans-serif;
-  color: grey;
+  color: slategrey;
 }
 hr {
   max-width: 65px;
   border-width: 3px;
-  border-color: #F05F44; 
+  border-color: #8388ca; 
 }
 .faded {
-  color: rgba(255, 255, 255, 0.8); 
+  color: rgba(252, 236, 236, 0.8); 
 }
 
 header.startup {
@@ -23,7 +23,7 @@ header.startup {
   height: 100%;
 }
 header.startup hr {
-  margin-top: 200px;
+  margin-top: 165px;
   margin-bottom: 30px; 
 }
 
@@ -39,13 +39,13 @@ header.startup hr {
 }
 
 .btn-primary {
-  background-color: #F05F44;
-  border-color: #F05F44; }
+  background-color: #999fe9;
+  border-color: #999fe9; }
 
 .btn-primary:hover {
-  background-color: #ee4b08;
-  border-color: #ee4b08;
-  border-width: 5px;
+  background-color: #8388ca;
+  border-color: #8388ca;
+  border-width: 2px;
   cursor: pointer;
 }
   
